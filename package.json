@@ -1,0 +1,1 @@
+{ "name": "beauty-ai-backend", "version": "1.0.0", "description": "AI sekreter ve randevu sistemi", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "express": "^4.18.2", "body-parser": "^1.20.2", "openai": "^4.27.0" }, "engines": { "node": "18.x" } }
